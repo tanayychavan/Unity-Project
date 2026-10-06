@@ -1,0 +1,16 @@
+name: Build Pipeline
+
+on:
+  push:
+    branches:
+      - 'UGD-1-tanay-integrate-unity-project-with-dev-ops-integration'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Display Build Message
+        run: echo "GitHub Actions Build Successful"
