@@ -1,0 +1,21 @@
+{
+  "name": "unity-project",
+  "version": "1.0.0",
+  "description": "The title of my game is **DELIVERY DASH.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Tests passed successfully"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanayychavan/Unity-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tanayychavan/Unity-Project/issues"
+  },
+  "homepage": "https://github.com/tanayychavan/Unity-Project#readme"
+}
